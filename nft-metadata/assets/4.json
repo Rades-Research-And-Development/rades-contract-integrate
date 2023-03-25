@@ -1,0 +1,30 @@
+{
+  "name": "Magic book Rades #4",
+  "symbol": "RD",
+  "description": "Looking to save money on your book purchases? Why not try a little magic? By reading a magic book, you'll uncover secrets and tips to cut down on your costs when buying books. Whether it's finding hidden discounts, using smart shopping strategies, or discovering new places to buy books, the magic book has got you covered. So, next time you're looking to add to your book collection, grab a magic book and read your way to savings!",
+  "seller_fee_basis_points": 1000,
+  "image": "4.png",
+  "external_url": "https://rades.cf",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Book",
+      "value": "book"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}

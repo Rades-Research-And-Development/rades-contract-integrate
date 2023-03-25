@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/macbook/Desktop/Project/rades/rades-contract/token-mint/anchor/target/release/build/typenum-d836ce8ae56b147f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/macbook/Desktop/Project/rades/rades-contract/token-mint/anchor/target/release/build/typenum-d836ce8ae56b147f/out/op.rs

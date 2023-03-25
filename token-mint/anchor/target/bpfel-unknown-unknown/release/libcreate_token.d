@@ -1,0 +1,1 @@
+/Users/macbook/Desktop/Project/rades/rades-contract/token-mint/anchor/target/bpfel-unknown-unknown/release/libcreate_token.rlib: /Users/macbook/Desktop/Project/rades/rades-contract/token-mint/anchor/programs/create-token/src/lib.rs

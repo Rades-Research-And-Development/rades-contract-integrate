@@ -1,0 +1,20 @@
+{
+  "number": 20,
+  "symbol": "RD",
+  "sellerFeeBasisPoints": 1000,
+  "isMutable": true,
+  "isSequential": true,
+  "creators": [
+    {
+      "address": "DhdgtrqqvP19yLHJAim5CbhDCfsEiNn4mkVcvqyUjVdM",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "nft_storage",
+  "awsConfig": null,
+  "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDEzQWExMEIwZTdhQ0E3ODA2ZDZGMmRBZDdhY2QyZDA4QzVDYWZhYjUiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY3Nzc0ODk5OTMyOSwibmFtZSI6Ik1hZ2ljIGJvb2tzIn0.CiG0WNuxmX4MId9YUmgOXoHe_Klmtjccc_H6OWjFfXQ",
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}

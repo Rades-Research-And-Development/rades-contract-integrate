@@ -1,0 +1,178 @@
+{
+    "program": {
+      "candyMachine": "6aKBKGpyTsm87vhxaFsTpH6oCvkw8yHZn8Jgr7J6YabK",
+      "candyGuard": "",
+      "candyMachineCreator": "2RMdPW1qz9g3d3WTfAdzAXUrW7yb4GbCKSKQ9Y34LCXQ",
+      "collectionMint": "H91LvmKBUQBdPtrzyCNUrHKb6yW9GMMcfUG9ydCfsU5s"
+    },
+    "items": {
+      "-1": {
+        "name": "Magic book Rades #0",
+        "image_hash": "74d9f2049711d50ef085cc5d58ef20a9942e024f335df22b9ec1b620b461991a",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/collection.png",
+        "metadata_hash": "378ea243f34691d5dd9459d63da989963f62592ac213750c370ae48bef203cfb",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/collection.json",
+        "onChain": true
+      },
+      "0": {
+        "name": "Magic book Rades #0",
+        "image_hash": "74d9f2049711d50ef085cc5d58ef20a9942e024f335df22b9ec1b620b461991a",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/0.png",
+        "metadata_hash": "378ea243f34691d5dd9459d63da989963f62592ac213750c370ae48bef203cfb",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/0.json",
+        "onChain": true
+      },
+      "1": {
+        "name": "Magic book Rades #1",
+        "image_hash": "1ab6785ce9cd9066295491c1df15cbc4fae38df02ae5d303f281af44087cb02e",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/1.png",
+        "metadata_hash": "736da7d0bf0ce33b1bcb04d4dc0098e6495554c5c89b6b7cd01ca5e76535b236",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/1.json",
+        "onChain": true
+      },
+      "2": {
+        "name": "Magic book Rades #2",
+        "image_hash": "74cc3e3bccf7e00f218a620c2688675e7c52fa793faf6eabfea8e34afb8be4f6",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/2.png",
+        "metadata_hash": "85bad6197c617b056011f10f8df3a12e7d0b5d5bde30a04fcaaad680faee7385",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/2.json",
+        "onChain": true
+      },
+      "3": {
+        "name": "Magic book Rades #3",
+        "image_hash": "59de926ff634de00165208914226946ce9f3cb6d837c0c2ed552537a0cf33896",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/3.png",
+        "metadata_hash": "5d9ca0081ea987d50d3161d580c221f3bf8b95ee0729d3d0805e659933685b30",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/3.json",
+        "onChain": true
+      },
+      "4": {
+        "name": "Magic book Rades #4",
+        "image_hash": "33904dca4bc4ceb99c0201506ee6a59b5d0c20b8b3cb7a406af178c8d454f1c2",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/4.png",
+        "metadata_hash": "0c31085cc1bc9f9c2a8d3f013cab6bcdce19afe03af527fc4cddf065c6123425",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/4.json",
+        "onChain": true
+      },
+      "5": {
+        "name": "Magic book Rades #5",
+        "image_hash": "219ba6958c10ea8a14e2a1105d2f91c77c6a9bda16167a369314096442e32b3c",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/5.png",
+        "metadata_hash": "d57036df9c6f0ea8d4e94ffa02319c1bca31583ed34b38a1632f47b6335fd3c3",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/5.json",
+        "onChain": true
+      },
+      "6": {
+        "name": "Magic book Rades #6",
+        "image_hash": "3c22c5512294316a5734139439e71f72c6ac3bfaa30eb1a81c0862dba8745ad6",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/6.png",
+        "metadata_hash": "bce55207292824efcc905ddffa565ead36838783cc73dfab0f1bcf63d942e6ff",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/6.json",
+        "onChain": true
+      },
+      "7": {
+        "name": "Magic book Rades #7",
+        "image_hash": "36204fd802c614cfa7d5b3fb82e50012bbaab10a12ea4771b423a9f5d9548651",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/7.png",
+        "metadata_hash": "784dd987c39e080d39b010ca74e6f52c7fe9c25a2f78ffa8152e5b1fca623a0b",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/7.json",
+        "onChain": true
+      },
+      "8": {
+        "name": "Magic book Rades #8",
+        "image_hash": "759f55fa539870a028dd449e38d517d77c9c757fb3f82384decfe5b5c497a29a",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/8.png",
+        "metadata_hash": "58157d4529ebc874475a6f8a82c5c2e2dc424a9da4007483251cb2390b238c68",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/8.json",
+        "onChain": true
+      },
+      "9": {
+        "name": "Magic book Rades #9",
+        "image_hash": "8b1d6a666be2d4dfe55123c447928811b2ac17a4c4898644ae2e543a416a245a",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/9.png",
+        "metadata_hash": "b51b55dd13e8b001b48a91cbe4b13caed24e8ea8cc93f3f27c196523885efced",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/9.json",
+        "onChain": true
+      },
+      "10": {
+        "name": "Magic book Rades #10",
+        "image_hash": "d1450c85eb057646a656c9b333965fe096e5d2d03b3551788f7e6c02e7416ac4",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/10.png",
+        "metadata_hash": "e2f92ef1455cd5ccb4398c90bc11feeae32e4ea1ef4a72cb2651944a95a9b601",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/10.json",
+        "onChain": true
+      },
+      "11": {
+        "name": "Magic book Rades #11",
+        "image_hash": "8f48ac7ecf14de99c81513daf2a6a907c78a5fa05888ae1d926ccc584e00e974",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/11.png",
+        "metadata_hash": "3891895445e39d824eecc760e0c2bcb5a59f73ed6e72f80f0a4bc1e2d2cba3fd",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/11.json",
+        "onChain": true
+      },
+      "12": {
+        "name": "Magic book Rades #12",
+        "image_hash": "97f7b55439a9006d271092ba87f36d01fc38a99ec485364a33db5adfaf20f6b2",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/12.png",
+        "metadata_hash": "9f8ed989a536396854f9407ecf8d47c6b0ab25f9897bc9bf6905ea22c69e0f55",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/12.json",
+        "onChain": true
+      },
+      "13": {
+        "name": "Magic book Rades #13",
+        "image_hash": "e4ab5df909729969274ad4b8b69bfc096a0344ee139683717d318a2212c2316e",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/13.png",
+        "metadata_hash": "82afc850b58672a42cc75b2cccfae13032b46f611b3c94af35e37a912f9daa4c",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/13.json",
+        "onChain": true
+      },
+      "14": {
+        "name": "Magic book Rades #14",
+        "image_hash": "e35f2148636df704d8316bc9998373f95f06654336d619a7e105b945be261619",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/14.png",
+        "metadata_hash": "5417cb629c829c53e16b7dda19ed50ab563525016ddfdd5d277c545cad933773",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/14.json",
+        "onChain": true
+      },
+      "15": {
+        "name": "Magic book Rades #15",
+        "image_hash": "6097b3d3df5ad107e3390215e5bbd8220f7797a3378c70e02a2b71596832e58b",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/15.png",
+        "metadata_hash": "e9cea21af9be2e1c5c4f15d0ef382e8971f449eb081a1e55b6c87ac8062480bc",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/15.json",
+        "onChain": true
+      },
+      "16": {
+        "name": "Magic book Rades #16",
+        "image_hash": "a82d4560b3067aa4c5f54a74bffca7097dda7ce4feb31f37f54322b4dd741490",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/16.png",
+        "metadata_hash": "b0869de692c4d61a60f21803923c6657ba15825c709bcd4e21afb4d67cdc3461",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/16.json",
+        "onChain": true
+      },
+      "17": {
+        "name": "Magic book Rades #17",
+        "image_hash": "f5ca7d8bd780eeda0fac94a725358ce8a6219fb868353d055e320a88666dcec3",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/17.png",
+        "metadata_hash": "10e0e2da169717c2233c00ab6fccf5338b950708939cad2763cef8ca5469b402",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/17.json",
+        "onChain": true
+      },
+      "18": {
+        "name": "Magic book Rades #18",
+        "image_hash": "7db21ee49ba6ced26ec4083e380c3dc79e9c519f1d4cad52015903f9b7514832",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/18.png",
+        "metadata_hash": "ea1923e717e7909b97f3e93656c974d54ead503f1bb6f1f4fa363d02ae6f05b6",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/18.json",
+        "onChain": true
+      },
+      "19": {
+        "name": "Magic book Rades #19",
+        "image_hash": "d6893aaf3ccb3f86c85d00afeb239cd8f091afef5478147e501b0c490968c997",
+        "image_link": "https://nftstorage.link/ipfs/bafybeie4qoo3gc3m3woavnzhtjgodlpvxpfgr2yd2ky5ne5m5rlf3ednl4/19.png",
+        "metadata_hash": "fd57d34b9d5d334908511de45fff9aed026d515b33ce50c69a9e6bfa73d7bb5b",
+        "metadata_link": "https://nftstorage.link/ipfs/bafybeidsxvxg6wppvk7kfuqp3w42eprsclefvh3vg4kn2j3rnd5ssb3wv4/19.json",
+        "onChain": true
+      }
+    }
+  }
